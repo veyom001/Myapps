@@ -90,7 +90,7 @@ flutter drive --driver=test_driver/integration_test.dart --target=integration_te
 ```
 MIT License
 
-Copyright (c) 2021 Salvador Valverde
+Copyright (c) 2021 Veyom Attwal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
