@@ -13,7 +13,7 @@ A few resources to get you started if this is your first Flutter project:
 
 ![](assets/images/Screenshot%202021-09-07%20025623.png)
 
-![](assets/images/Screenshot%202021-09-07%20025648.png)
+![](assets/images/Screenshot%202021-09-09%20001436.png)
 
 ![](assets/images/Screenshot%202021-09-07%20025817.png)
 
