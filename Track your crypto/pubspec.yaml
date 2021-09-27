@@ -1,0 +1,53 @@
+name: cryptotracker
+description: An app made using the Flutter framework that allows users to track information for over 2000 cryptocurrencies
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: 0.12.2
+  local_database:
+  path_provider: 1.6.11
+  charts_flutter: 0.9.0
+  flutter_launcher_icons: 0.9.2
+  web_socket_channel: 2.1.0
+  auto_size_text: 2.1.0
+  syncfusion_flutter_charts: 18.2.47
+  url_launcher: 5.5.0
+  flutter_svg: 0.22.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "icon/platypus.png"
+  image_path_android: "icon/platypus2.png"
+  image_path_ios: "icon/platypus.png"
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+  assets:
+    - icon/platypus.png
+    - icon/platypus2.png
+  fonts:
+    - family: MavenPro
+      fonts:
+        - asset: fonts/MavenPro-Regular.ttf
