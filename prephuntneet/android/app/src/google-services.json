@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397131809598",
+    "project_id": "prephunt-ec476",
+    "storage_bucket": "prephunt-ec476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397131809598:android:fb0bd340da3ec5e658a26f",
+        "android_client_info": {
+          "package_name": "com.example.prephuntneet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397131809598-7amuish14un0ej450fi3n30c61m58ljr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_EGQUB7D34EuySEFnlKQ0viItNXDq-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397131809598-7amuish14un0ej450fi3n30c61m58ljr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
