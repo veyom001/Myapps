@@ -1,16 +1,18 @@
-# prephuntneet
 
-A new Flutter project.
+# Take all details from user and save details in firestore database .
+![](assets/images/register.png)
 
-## Getting Started
+# Verifies your email after registering 
+![](assets/images/verification.png)
 
-This project is a starting point for a Flutter application.
+# Now after registering you can login into your account . It uses firebase auth to verify .
+![](assets/images/login.png)
 
-A few resources to get you started if this is your first Flutter project:
+# If you are unable to login click on forgot password and change the password 
+![](assets/images/forgot%20pass.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Display your info entered during registeration 
+![](assets/images/display%20info.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# If you want to change any info provided .
+![](assets/images/Screenshot%202021-09-29%20135328.png)
